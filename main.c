@@ -1,4 +1,4 @@
-#include "auto.c"
+#include "auto.h"
 
 int main(){
     AUTOMATO tmp;
