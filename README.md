@@ -67,9 +67,6 @@ O programa solicitará o caminho do arquivo com a definição do AFD e, em segui
 
 Exemplo de saída:
 
-css
-Copy
-Edit
 [q0]ab00cb
 [q1]b00cb
 [q1]00cb
